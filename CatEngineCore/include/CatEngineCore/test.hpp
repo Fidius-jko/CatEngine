@@ -1,0 +1,3 @@
+namespace CatEngine {
+	void SayHello();
+}
